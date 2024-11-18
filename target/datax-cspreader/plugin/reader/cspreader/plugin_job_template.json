@@ -1,0 +1,16 @@
+{
+    "name": "cspreader",
+    "parameter": {
+        "region": "",
+        "domain": "",
+        "endpoint": "",
+        "accessId": "",
+        "accessKey": "",
+        "bucket": "",
+        "object": [],
+        "column": [],
+        "encoding": "",
+        "fieldDelimiter": "",
+        "compress": ""
+    }
+}

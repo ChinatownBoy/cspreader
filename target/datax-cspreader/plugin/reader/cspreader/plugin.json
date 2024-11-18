@@ -1,0 +1,7 @@
+{
+    "name": "cspreader",
+    "class": "com.alibaba.datax.plugin.reader.cspreader.CosReader",
+    "description": "",
+    "developer": "tencent"
+}
+
